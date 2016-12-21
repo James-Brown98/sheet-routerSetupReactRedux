@@ -1,5 +1,5 @@
 {
-  "name": "bradymat",
+  "name": "sheet-routerSetupReactRedux",
   "version": "1.0.0",
   "description": "bradymat",
   "main": "index.js",
@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bradymat/bradymat"
+    "url": "https://github.com/bradymat/sheet-routerSetupReactRedux"
   },
   "author": "bradymat",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bradymat/bradymat/issues"
+    "url": "https://github.com/bradymat/sheet-routerSetupReactRedux/issues"
   },
-  "homepage": "https://github.com/bradymat/bradymat",
+  "homepage": "https://github.com/bradymat/sheet-routerSetupReactRedux",
   "dependencies": {},
   "devDependencies": {
     "babel-plugin-transform-object-rest-spread": "^6.19.0",
